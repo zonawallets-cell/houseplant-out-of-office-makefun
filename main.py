@@ -5,7 +5,8 @@ to $MAKEFUN_OUTPUT_DIR/entry.txt (default /output/entry.txt).
 
 Pure standard library only (os). The line is a fixed string: a deadpan
 auto-reply from a plant ignored since March, 84 characters, well inside
-the gate's 1-120 character limit.
+the gate's 1-120 character limit. Short is deliberate: on an exact
+tie the judge ranks the smaller text first, then the earlier receipt.
 """
 
 import os
